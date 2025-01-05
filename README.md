@@ -1,1 +1,3 @@
 it is a work in progress.....
+the mechanism is not well defined 
+it is only for the idea
